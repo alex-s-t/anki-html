@@ -1,0 +1,50 @@
+.card {
+ font-family: Noto Sans CJK JP Regular;
+ font-size: 50px;
+ text-align: center;
+ color: black;
+ background: url("bg.jpg");
+}
+ 
+.android .card {
+ font-family: Noto Sans CJK JP Regular;
+ font-size: 30px;
+ text-align: center;
+ color: black;
+ background: url("bg.jpg");
+}
+ 
+
+hr {
+ height: 10px;
+ font-size: 30px;
+ border: 1;
+ background: #72c8e1;
+ min-width: 100%;
+ margin-left: 0px;
+ margin-top: 1em;
+}
+ 
+u {
+ text-decoration: none;
+ border-bottom: 1px dotted;
+}
+
+html {
+ background-color: #EEE9D3;
+ }
+.front {
+    color: #D74F2E;
+}
+
+.back {
+ color: #30AF88;
+}
+
+.IPA {
+color: teal;
+}
+
+html {
+border-style: solid;
+}
